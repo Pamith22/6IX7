@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "14801529715",
+    "project_id": "ix7-clothng-app",
+    "storage_bucket": "ix7-clothng-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14801529715:android:6269f622483abcbf89b306",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14801529715-u7vao9f23u0l6aqr97eq3h4d5usl3dbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "04bcf1041fa1fc590f8a4effb635d1eee31d73ce"
+          }
+        },
+        {
+          "client_id": "14801529715-079e6iatiflhacqj3oraup8dqi1n8g5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexX3OOYDizX8O9XOl-XIqK1OL8Ku_YnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14801529715-079e6iatiflhacqj3oraup8dqi1n8g5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14801529715-807fsoqfe128atc6ro7d5q76dfdf2oo3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
